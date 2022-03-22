@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-testrunner-master.flake = false;
+  inputs.src-testrunner-master.ref   = "refs/heads/master";
   inputs.src-testrunner-master.owner = "FedericoCeratto";
-  inputs.src-testrunner-master.ref   = "master";
   inputs.src-testrunner-master.repo  = "nim-testrunner";
   inputs.src-testrunner-master.type  = "github";
   
