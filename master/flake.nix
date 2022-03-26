@@ -11,6 +11,7 @@
   inputs.src-testrunner-master.ref   = "refs/heads/master";
   inputs.src-testrunner-master.owner = "FedericoCeratto";
   inputs.src-testrunner-master.repo  = "nim-testrunner";
+  inputs.src-testrunner-master.dir   = "";
   inputs.src-testrunner-master.type  = "github";
   
   inputs."libnotify".owner = "nim-nix-pkgs";
