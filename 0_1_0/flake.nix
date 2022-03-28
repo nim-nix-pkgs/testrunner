@@ -11,7 +11,6 @@
   inputs.src-testrunner-0_1_0.ref   = "refs/tags/0.1.0";
   inputs.src-testrunner-0_1_0.owner = "FedericoCeratto";
   inputs.src-testrunner-0_1_0.repo  = "nim-testrunner";
-  inputs.src-testrunner-0_1_0.dir   = "";
   inputs.src-testrunner-0_1_0.type  = "github";
   
   inputs."libnotify".owner = "nim-nix-pkgs";
